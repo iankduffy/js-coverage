@@ -1,0 +1,11 @@
+{
+  "name": "js-coverage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iankduffy/js-coverage.git",
+  "author": "Ian Duffy <ian.duffy@shiftcommerce.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
